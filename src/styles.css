@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: lightgray;
+}
+textarea {
+  outline: none;
+}
+.error {
+  border: 2px solid red;
+}
+.no-link {
+  text-decoration: none;
+  display: inline-block;
+  height: 100%;
+  padding: 10px 20px;
+}
+.cont {
+  padding: 0;
+}
+
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
+.btn {
+  text-align: right;
+}
+
+.hr {
+  margin-top: 60px !important;
+}
+textarea {
+  resize: vertical;
+}
