@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sosio-assignment/static/css/main.ae60ca8a.chunk.css",
+    "main.js": "/sosio-assignment/static/js/main.be1fd20b.chunk.js",
+    "main.js.map": "/sosio-assignment/static/js/main.be1fd20b.chunk.js.map",
+    "runtime-main.js": "/sosio-assignment/static/js/runtime-main.e40e09f7.js",
+    "runtime-main.js.map": "/sosio-assignment/static/js/runtime-main.e40e09f7.js.map",
+    "static/js/2.48eb1bc2.chunk.js": "/sosio-assignment/static/js/2.48eb1bc2.chunk.js",
+    "static/js/2.48eb1bc2.chunk.js.map": "/sosio-assignment/static/js/2.48eb1bc2.chunk.js.map",
+    "index.html": "/sosio-assignment/index.html",
+    "precache-manifest.d06e524dd5cb979eab2cafd0591e7e2d.js": "/sosio-assignment/precache-manifest.d06e524dd5cb979eab2cafd0591e7e2d.js",
+    "service-worker.js": "/sosio-assignment/service-worker.js",
+    "static/css/main.ae60ca8a.chunk.css.map": "/sosio-assignment/static/css/main.ae60ca8a.chunk.css.map",
+    "static/js/2.48eb1bc2.chunk.js.LICENSE.txt": "/sosio-assignment/static/js/2.48eb1bc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e40e09f7.js",
+    "static/js/2.48eb1bc2.chunk.js",
+    "static/css/main.ae60ca8a.chunk.css",
+    "static/js/main.be1fd20b.chunk.js"
+  ]
+}
